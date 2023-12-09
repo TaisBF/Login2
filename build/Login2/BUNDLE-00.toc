@@ -1,0 +1,3 @@
+([('Login2',
+   '/Users/taisfigueiredo/Cursos/Python/Login/dist/Login2',
+   'EXECUTABLE')],)
