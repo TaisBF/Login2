@@ -1,45 +1,44 @@
+# Tkinter Login Application
 
-# Aplicativo de Login com Tkinter
+This is a simple login application developed in Python using the Tkinter library. The application includes a graphical user interface (GUI) that allows users to enter a username and password for login.
 
-Este é um simples aplicativo de login desenvolvido em Python usando a biblioteca Tkinter. O aplicativo inclui uma interface gráfica de usuário (GUI) que permite aos usuários inserir um nome de usuário e uma senha para efetuar o login.
-
-## Requisitos
+## Requirements
 
 - Python 3.x
-- Biblioteca Tkinter (normalmente já incluída na instalação padrão do Python)
-- Biblioteca Pillow (PIL) para manipulação de imagens (`pip install Pillow`)
+- Tkinter library (usually included in the standard Python installation)
+- Pillow library for image manipulation (`pip install Pillow`)
 
-## Como Executar
+## How to Run
 
-Certifique-se de ter Python instalado em seu sistema. Em seguida, execute o script `login.py`:
+Make sure you have Python installed on your system. Then, execute the `login.py` script:
 
 ```bash
 python login.py
 ```
 
-## Funcionalidades
+## Features
 
-- Os usuários podem inserir um nome de usuário e uma senha.
-- Ao clicar em "Sign in", a interface exibe uma mensagem de boas-vindas se as credenciais fornecidas forem `admin` e `12345`.
-- Caso contrário, mensagens de erro são exibidas para credenciais inválidas.
+- Users can enter a username and password.
+- Clicking "Sign in" displays a welcome message if the provided credentials are `admin` and `12345`.
+- Otherwise, error messages are displayed for invalid credentials.
 
-## Capturas de Tela
+## Screenshots
 
-Inclua algumas capturas de tela do seu aplicativo em ação. Você pode adicionar uma seção para imagens no README e fornecer links para capturas de tela.
+Include some screenshots of your application in action. You can add an image section in the README and provide links to screenshots.
 
-## Estrutura do Código
+## Code Structure
 
-- O código está dividido em seções para facilitar a compreensão.
-- As funcionalidades principais estão concentradas na função `signin`.
+- The code is divided into sections for easy understanding.
+- Core functionalities are concentrated in the `signin` function.
 
-## Autor
+## Author
 
 Tais Figueiredo
 
-## Licença
+## License
 
-Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contribuições
+## Contributions
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+Contributions are welcome! Feel free to open issues or pull requests.
